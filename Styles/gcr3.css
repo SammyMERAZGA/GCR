@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 avr. 2020, 14:46:54
+    Author     : MEGNOUCHE
+*/
+
+#bas 
+{
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+
+#formPraticien
+{
+    padding-left: 20px;
+}
+
+#formPraticien label
+{
+    display: inline-block;
+    padding-top: 10px;
+    width: 20%;
+    height: 15px;
+}
